@@ -4,6 +4,17 @@ version = "0.1.0"
 authors = ["Dom Dwyer <dom@itsallbroken.com>"]
 build = "build.rs"
 
+license = "BSD-3-Clause"
+readme = "README.md"
+keywords = ["pmc", "freebsd"]
+repository = "https://github.com/domodwyer/pmc-sys"
+homepage = "https://github.com/domodwyer/pmc-sys"
+description = """
+Rust bindings to FreeBSD's libpmc.
+"""
+
+categories = ["external-ffi-bindings", "api-bindings"]
+
 [lib]
 name = "pmc_sys"
 
