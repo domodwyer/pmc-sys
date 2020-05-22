@@ -19,7 +19,7 @@ categories = ["external-ffi-bindings", "api-bindings"]
 name = "pmc_sys"
 
 [build-dependencies]
-bindgen = "0.53"
+bindgen = "0.54"
 
 [dependencies]
 libc = "0.2"
