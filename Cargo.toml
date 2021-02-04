@@ -1,6 +1,6 @@
 [package]
 name = "pmc-sys"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Dom Dwyer <dom@itsallbroken.com>"]
 build = "build.rs"
 
