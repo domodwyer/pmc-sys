@@ -1,3 +1,7 @@
+# Archived
+
+This crate has been moved into the [`pmc-rs`] workspace.
+
 pmc-sys
 --------
 
